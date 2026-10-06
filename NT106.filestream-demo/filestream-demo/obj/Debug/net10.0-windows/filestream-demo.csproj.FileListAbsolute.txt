@@ -1,0 +1,16 @@
+D:\LTMCB\NT106.filestream-demo\filestream-demo\bin\Debug\net10.0-windows\filestream-demo.exe
+D:\LTMCB\NT106.filestream-demo\filestream-demo\bin\Debug\net10.0-windows\filestream-demo.deps.json
+D:\LTMCB\NT106.filestream-demo\filestream-demo\bin\Debug\net10.0-windows\filestream-demo.runtimeconfig.json
+D:\LTMCB\NT106.filestream-demo\filestream-demo\bin\Debug\net10.0-windows\filestream-demo.dll
+D:\LTMCB\NT106.filestream-demo\filestream-demo\bin\Debug\net10.0-windows\filestream-demo.pdb
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream_demo.ReadWriteFile.resources
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream-demo.csproj.GenerateResource.cache
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream-demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream-demo.AssemblyInfoInputs.cache
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream-demo.AssemblyInfo.cs
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream-demo.csproj.CoreCompileInputs.cache
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream-demo.dll
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\refint\filestream-demo.dll
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream-demo.pdb
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\filestream-demo.genruntimeconfig.cache
+D:\LTMCB\NT106.filestream-demo\filestream-demo\obj\Debug\net10.0-windows\ref\filestream-demo.dll
